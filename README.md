@@ -1,14 +1,13 @@
 # larash-laravel-vuejs
 laravel starter admin with vuejs
 
-Installation
-It's just like any other Laravel project. Basically here is how you use it for yourself. (it's not completed yet)
-
-Download Files
-cd to project folder.
-Run composer install
-Save as the .env.example to .env and set your database information
-Run php artisan key:generate to generate the app key
-Run npm install
-Run php artisan migrate
-Done !!! Enjoy Customizing and building awesome app
+## Installation:
+* Download Files
+* cd to project folder.
+* Run composer install
+* Edit .env file with your own Database , user password etc..
+* Run php artisan key:generate to generate the app key
+* Run npm install
+* php artisan passport:install
+* Run php artisan migrate
+* Done !!! Enjoy Customizing and building awesome app
